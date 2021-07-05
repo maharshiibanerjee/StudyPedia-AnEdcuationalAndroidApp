@@ -85,7 +85,7 @@ CREATE TABLE `examinee_tbl` (
 --
 
 INSERT INTO `examinee_tbl` (`exmne_id`, `exmne_fullname`, `exmne_course`, `exmne_gender`, `exmne_birthdate`, `exmne_year_level`, `exmne_email`, `exmne_password`, `exmne_status`) VALUES
-(10, 'MB', '25', 'male', '1992-09-26', 'third year', 'mb@mail.com', 'mono', 'active');
+(10, 'Monojoy Banerjee', '25', 'male', '1992-09-26', 'third year', 'mb@mail.com', 'mono', 'active');
 
 -- --------------------------------------------------------
 
