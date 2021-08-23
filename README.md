@@ -25,7 +25,7 @@
 
 7.Run the script http://localhost/Online Examination System
 
-
+**Project_SS Available**
 
 Admin localhost path : localhost/StudyPediaOnlineExamPanel/adminpanel/admin/index.php
 admin login credential
